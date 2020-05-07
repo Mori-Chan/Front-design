@@ -128,7 +128,8 @@ div.main{
 
     .btn-square {
     display: inline-block;
-    padding: 0.5em 1em;
+    /* padding: 0.5em 1em; */
+    padding: 1.5em 2em;
     text-decoration: none;
     background: #668ad8;/*ボタン色*/
     color: #FFF;
@@ -180,7 +181,8 @@ div.main{
 
   .btn-square {
     display: inline-block;
-    padding: 0.5em 1em;
+    /* padding: 0.5em 1em; */
+    padding: 1.5em 2em;
     text-decoration: none;
     background: #668ad8;/*ボタン色*/
     color: #FFF;
